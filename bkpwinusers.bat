@@ -2,7 +2,7 @@ echo OFF
 echo  #####################
 echo #  SCRIPT PARA BACKUP  #
 echo  #####################
-echo               by: Gabriel R
+echo               by: gabrielrtl
 echo Digite o destino do backup ""EXEMPLO D:\teste""
 set /p DESTINO=
 cls
